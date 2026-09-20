@@ -119,16 +119,6 @@ Também venho desenvolvendo conhecimentos em Inteligência Artificial aplicada a
 
 ---
 
-## 🎯 Objetivo profissional
-
-Meu objetivo é atuar profissionalmente na área de **Dados e Business Intelligence**, utilizando análise, tecnologia e automação para transformar dados em informações relevantes para o negócio.
-
-Tenho interesse em oportunidades como:
-
-**Analista de Dados | Analista de BI | Data Analyst | Business Intelligence | Data Analytics**
-
----
-
 ## 📫 Vamos nos conectar?
 
 <p align="left">
