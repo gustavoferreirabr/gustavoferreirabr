@@ -10,13 +10,6 @@ Transformo dados operacionais em dashboards, KPIs e automações que apoiam deci
 
 ---
 
-## 🚧 Projetos em desenvolvimento
-
-- **Modelo de vendas no Power BI:** modelagem dimensional e medidas DAX organizadas (em construção)
-- Em breve: links, prints e resultados dos dashboards
-
----
-
 ## 🧰 Stack
 
 **Análise de dados e bancos de dados**
