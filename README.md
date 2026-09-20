@@ -1,42 +1,37 @@
-# 👋 Olá, eu sou Gustavo Ferreira!
+# Olá, eu sou Gustavo Ferreira 👋
 
-### 📊 Analista de Dados | Business Intelligence | SQL | Power BI | Python
+### Analista de Dados | Business Intelligence | SQL | Power BI | Python
 
-Profissional com experiência em análise de dados, indicadores, KPIs, dashboards, automação de processos e melhoria contínua.
+Trabalho com dados na **Decolar**, acompanhando indicadores, qualidade e processos, e desenvolvendo automações e soluções com IA para reduzir tarefas manuais. Formado em Análise e Desenvolvimento de Sistemas (2025).
 
-Atualmente, atuo na **Decolar**, trabalhando com análise e acompanhamento de indicadores, qualidade, processos e dados, além do desenvolvimento de soluções de automação e Inteligência Artificial para otimização de atividades.
+Transformo dados operacionais em dashboards, KPIs e automações que apoiam decisões de negócio.
 
-Tenho como objetivo consolidar minha carreira na área de **Dados, Business Intelligence e Analytics**, transformando dados em informações que apoiem decisões e melhorias de negócio.
+🎯 **Aberto a oportunidades como Analista de Dados / Analista de BI.**
 
 ---
 
-## 🧰 Tecnologias & Ferramentas
+## 🚧 Projetos em desenvolvimento
 
-### 📊 Data Analytics & Business Intelligence
+- **Modelo de vendas no Power BI:** modelagem dimensional e medidas DAX organizadas (em construção)
+- Em breve: links, prints e resultados dos dashboards
+
+---
+
+## 🧰 Stack
+
+**Análise de dados e bancos de dados**
 
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-**Principais conhecimentos:**
-
-- SQL
-- DAX
-- Power Query
-- Modelagem de dados
-- Tratamento e transformação de dados
-- KPIs e indicadores
-- Data Visualization
-- Análise exploratória
-- Dashboards
-- Relatórios gerenciais
-
-### 📈 Business Intelligence
+**Business Intelligence**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -44,78 +39,23 @@ Tenho como objetivo consolidar minha carreira na área de **Dados, Business Inte
   <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white"/>
 </p>
 
-Experiência com desenvolvimento de dashboards para:
+**Automação**
 
-- Acompanhamento de KPIs
-- Indicadores operacionais
-- Performance
-- Receita e vendas
-- Análise de processos
-- Monitoramento de resultados
-- Suporte à tomada de decisão
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
 
-### 🧮 SQL
+**Principais competências:** DAX, Power Query, modelagem de dados, CTEs e subqueries, tratamento e transformação de dados (ETL), análise exploratória, KPIs, dashboards e relatórios gerenciais.
 
-Conhecimentos em SQL aplicados à análise de dados e construção de indicadores.
+---
 
-**Bancos de dados:** PostgreSQL, MySQL e SQL Server.
+## 📈 O que eu faço
 
-```text
-SQL
-├── SELECT
-├── WHERE
-├── GROUP BY
-├── ORDER BY
-├── JOINs
-├── CASE WHEN
-├── Agregações
-├── Subqueries
-├── CTEs
-└── Análise de dados
-```
-
-### 🐍 Python
-
-Utilizo Python principalmente para análise de dados e automação.
-
-```text
-Python
-├── Pandas
-├── Manipulação de dados
-├── Tratamento de dados
-├── Automação
-├── ETL
-└── Integrações
-```
-
-### ⚙️ Automação
-
-Tenho interesse especial em utilizar tecnologia para reduzir tarefas manuais e melhorar processos.
-
-**Ferramentas:**
-
-- Google Apps Script
-- Python
-- APIs
-- Google Sheets
-- Automação de processos
-- ETL
-- Integração entre ferramentas
-
-### 🤖 Inteligência Artificial
-
-Também venho desenvolvendo conhecimentos em Inteligência Artificial aplicada a processos e produtividade.
-
-**Experiência e estudos:**
-
-- Agentes de IA
-- Engenharia de prompts
-- Automação com IA
-- Estruturação de fluxos
-- Geração automatizada de relatórios
-- Padronização de processos
-- IA aplicada à produtividade
-- Integração de IA com processos operacionais
+- **Dashboards e KPIs:** acompanhamento de receita, vendas, performance e indicadores operacionais
+- **Análise de processos e qualidade:** monitoramento de resultados para apoiar a tomada de decisão
+- **Automação:** Python, Google Apps Script e APIs para integrar ferramentas e eliminar trabalho manual
+- **IA aplicada:** agentes, engenharia de prompts e geração automatizada de relatórios
 
 ---
 
@@ -125,11 +65,7 @@ Também venho desenvolvendo conhecimentos em Inteligência Artificial aplicada a
   <a href="https://www.linkedin.com/in/gustavo-ferreira-barbosa-16aaab229/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/gustavoferreirabr">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="mailto:gustavoferreirabarbosa13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  💡 <i>"Transformando dados em informações, informações em decisões e tecnologia em soluções."</i>
 </p>
