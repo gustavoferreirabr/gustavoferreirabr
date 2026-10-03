@@ -6,8 +6,6 @@ Trabalho com dados na **Decolar**, acompanhando indicadores, qualidade e process
 
 Transformo dados operacionais em dashboards, KPIs e automações que apoiam decisões de negócio.
 
-🎯 **Aberto a oportunidades como Analista de Dados / Analista de BI.**
-
 ---
 
 ## 🧰 Stack
